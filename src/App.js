@@ -8,8 +8,6 @@ import Todoapp from './Components/Todoapp';
 function App() {
   return (
     <div className="App">
-      {/* <DLMode/> */}
-      {/* <Propseg/> */}
       <Todoapp/>
     </div>
   );
